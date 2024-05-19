@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Scenario1 {
 
 	public static void main(String[] args)throws InterruptedException {
-		
+		//Click on element
 		//up casting
 		WebDriver driver = new ChromeDriver();
 		
